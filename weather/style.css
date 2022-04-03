@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cairo:wght@200&family=Exo:wght@100&family=IM+Fell+English+SC&display=swap');
+
+body{
+   background-color: #006494;
+   color: #e8f1f2;
+   padding-top: 8%;
+   padding-left: 35%;
+   font-family: 'Cairo', sans-serif;
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: #13293d;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
+.corezinhas {
+    background-color: #247ba0;
+    padding: 7%;
+    width: 25%;
+    border-radius: 10px;   
+}
+input {
+    width: 97%;
+    font-size: 100%;
+}
+button {
+    background-color: #13293d;
+    color: #e8f1f2;
+    width: 50%;
+    border-radius: 15px;
+    font-size: 100%;
+}
